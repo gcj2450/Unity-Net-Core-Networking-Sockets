@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Samples/EchoClient/Scenes/NetworkExampleClient.unity
+    path: Assets/NetCoreNetworking/Samples/EchoClient/Scenes/NetworkExampleClient.unity
     guid: d9d955803599c4a48a24f12c4c24d3ac
   m_configObjects: {}
